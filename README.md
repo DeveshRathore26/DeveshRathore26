@@ -17,7 +17,14 @@
 
 ### 🚀 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,html,css,js,ts,nodejs,python,java,php,c,cpp,go,postgres,mysql,aws,azure,docker,kubernetes&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,html,css,js,ts,nodejs,python,java,php,c,cpp,go,postgres,mysql,mongodb,sqlite,aws,azure,docker,kubernetes,git,github,django&theme=dark" />
+</p>
+
+<p align="center">
+  <!-- Extra badges for unsupported icons -->
+  <img src="https://img.shields.io/badge/API-REST%20%26%20GraphQL-blue?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/NoSQL-Flexible%20Schemas-informational?style=for-the-badge&color=gray" />
+  <img src="https://img.shields.io/badge/Notion-Workspace-black?style=for-the-badge&logo=notion&logoColor=white" />
 </p>
 
 ---
