@@ -24,10 +24,9 @@
 </p>
 
 <p align="center">
-  <!-- Additional Technologies -->
   <img src="https://img.shields.io/badge/API-REST%20%26%20GraphQL-blue?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/DevOps-CI/CD%20Pipelines-informational?style=for-the-badge&color=purple" />
-  <img src="https://img.shields.io/badge/NoSQL-Flexible%20Schemas-informational?style=for-the-badge&color=gray" />
+  <img src="https://img.shields.io/badge/DevOps-CI/CD%20Pipelines-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NoSQL-Flexible%20Schemas-gray?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Linux-Terminal%20Lover-red?style=for-the-badge&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Notion-Workspace-black?style=for-the-badge&logo=notion&logoColor=white" />
 </p>
