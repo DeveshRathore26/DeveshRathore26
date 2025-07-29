@@ -29,6 +29,10 @@
   <img src="https://img.shields.io/badge/NoSQL-Flexible%20Schemas-gray?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Linux-Terminal%20Lover-red?style=for-the-badge&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Notion-Workspace-black?style=for-the-badge&logo=notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/XAMPP-Localhost%20Dev-orange?style=for-the-badge&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/WAMP-Windows%20Stack-blueviolet?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Networking-Configured%20and%20Secured-green?style=for-the-badge&logo=wifi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Server%20Handling-Linux%20%7C%20Cloud%20%7C%20SSH-black?style=for-the-badge&logo=ubuntu&logoColor=white" />
 </p>
 
 ---
