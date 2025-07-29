@@ -33,6 +33,11 @@
   <img src="https://img.shields.io/badge/WAMP-Windows%20Stack-blueviolet?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Networking-Configured%20and%20Secured-green?style=for-the-badge&logo=wifi&logoColor=white" />
   <img src="https://img.shields.io/badge/Server%20Handling-Linux%20%7C%20Cloud%20%7C%20SSH-black?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-Reverse%20Proxy%20%26%20Web%20Server-darkgreen?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache-HTTP%20Server-orange?style=for-the-badge&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ngrok-Tunneling%20Tool-yellow?style=for-the-badge&logo=ngrok&logoColor=black" />
+  <img src="https://img.shields.io/badge/VS%20Code-Code%20Editor-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20%26%20ML-Model%20Building%20%7C%20NLP%20%7C%20LLMs-red?style=for-the-badge&logo=ai&logoColor=white" />
 </p>
 
 ---
